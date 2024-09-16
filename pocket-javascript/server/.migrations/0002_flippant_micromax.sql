@@ -1,0 +1,1 @@
+ALTER TABLE "goal_completions" ADD COLUMN "id" text;
